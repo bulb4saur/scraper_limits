@@ -1,4 +1,3 @@
-from symbol import argument
 from typing import TYPE_CHECKING, Optional
 
 import aio_pika
